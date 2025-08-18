@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo view:*)",
+      "Bash(gh repo list:*)",
+      "mcp__postgres-server__pg_manage_schema",
+      "mcp__postgres-server__pg_execute_query"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
